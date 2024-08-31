@@ -1,2 +1,2 @@
 # Dan-Space
-A personal website handled by Vercel, made to re-exploring, re-build, and re-creating my portfolio 
+A personal website handled by Vercel, made to re-exploring, re-build, and re-creating my portfolio. I'd just realized that Vercel gives us space to create a website, althought it's not fullly hosted by us. But as a beginner engineer and designer, it gives me a space to share who I am. Fighting with my own thoughts is the hardest part since I can listen to them all day long, no matter how tired I am with that, physically and mentally. So, this (might) be the space I made to give all that out. I hate them
